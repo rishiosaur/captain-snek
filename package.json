@@ -1,0 +1,19 @@
+{
+  "name": "captain-snek",
+  "version": "0.0.1",
+  "description": "A bot for pushing gp to #ship in the Hack Club Slack",
+  "main": "index.ts",
+  "repository": "https://github.com/rishiosaur/captain-snek",
+  "author": "Rishi Kothari + Hack Club",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/bolt": "^2.0.1",
+    "@types/node": "^13.11.1",
+    "eslint": "^6.8.0",
+    "eslint-plugin-import": "^2.20.2",
+    "nodemon": "^2.0.3",
+    "ts-node": "^8.8.2",
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.8.3"
+  }
+}
